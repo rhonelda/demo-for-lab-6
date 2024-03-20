@@ -1,4 +1,4 @@
 # lab6
 # demo-for-lab-6
 
-[Edit here(https://diy-pwa.com/~/gh/rhonelda/lab6)
+[Edit here}(https://diy-pwa.com/~/gh/rhonelda/lab6)
